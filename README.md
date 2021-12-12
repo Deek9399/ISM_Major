@@ -28,6 +28,8 @@ Every audio signal consists of many features. However, we must extract the chara
 The spectral features (frequency-based features), which are obtained by converting the time-based signal into the frequency domain using the Fourier Transform, like:
 
 1. Spectral centroid
+The spectral centroid indicates at which frequency the energy of a spectrum is centered upon or in other words It indicates where the ” center of mass” for a sound is located. This is like a weighted mean:
+
 2. Spectral Rolloff
 3. Spectral Bandwidth
 4. Zero-Crossing Rate
