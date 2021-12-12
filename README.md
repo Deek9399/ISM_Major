@@ -29,7 +29,7 @@ The spectral features (frequency-based features), which are obtained by converti
 
 1. Spectral centroid
 The spectral centroid indicates at which frequency the energy of a spectrum is centered upon or in other words It indicates where the ” center of mass” for a sound is located. This is like a weighted mean:
-https://miro.medium.com/max/355/1*DkT47WzLrjigT_KVhDoMuQ.png
+![NN](https://miro.medium.com/max/355/1*DkT47WzLrjigT_KVhDoMuQ.png)
 2. Spectral Rolloff
 3. Spectral Bandwidth
 4. Zero-Crossing Rate
