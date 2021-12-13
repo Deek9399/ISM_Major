@@ -17,7 +17,7 @@ Pre requisites:
 
 2. **IPython.display.Audio**: Lets you play audio directly in a jupyter notebook.
 
-## Important termanologies:
+## Important termanologies :
 
 ### Spectrogram
 A spectrogram is a visual way of representing the signal strength, or “loudness”, of a signal over time at various frequencies present in a particular waveform.
@@ -46,7 +46,7 @@ A very simple way for measuring the smoothness of a signal is to calculate the n
 5. Mel-Frequency Cepstral Coefficients(MFCCs):-
 The Mel frequency cepstral coefficients (MFCCs) of a signal are a small set of features (usually about 10–20) which concisely describe the overall shape of a spectral envelope. It models the characteristics of the human voice.
 
-6. Chroma feature:-
+6. Chroma feature :-
 A chroma feature or vector is typically a 12-element feature vector indicating how much energy of each pitch class, {C, C#, D, D#, E, …, B}, is present in the signal. In short, It provides a robust way to describe a similarity measure between music pieces.
 
 
