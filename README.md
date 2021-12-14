@@ -88,5 +88,5 @@ The Mel frequency cepstral coefficients (MFCCs) of a signal are a small set of f
 A chroma feature or vector is typically a 12-element feature vector indicating how much energy of each pitch class, {C, C#, D, D#, E, …, B}, is present in the signal. In short, It provides a robust way to describe a similarity measure between music pieces.
 
 
-Please consider reading these articles to understand Audio data analysis and its step by step implementation [here](https://www.theaidream.com/post/audio-data-analysis-using-deep-learning-with-python-part-1) and [here](https://www.theaidream.com/post/audio-data-analysis-using-deep-learning-with-python-part-2).
+
 
