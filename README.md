@@ -15,6 +15,7 @@ Pre requisites:
 ```pip install librosa``` <br/>
         &nbsp; or <br/>
 ```conda install -c conda-forge librosa```
+<br/>
 To fuel more audio-decoding power, we can install ffmpeg which ships with many audio decoders.
 
 
